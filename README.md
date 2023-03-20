@@ -28,4 +28,8 @@
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=paranthaman-l&hide=css,html&theme=tokyonight">
 </p>
 
+### GITHUB TROPHIES
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=paranthaman-l&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)<br>
+
 <p><img align="middle" src="https://github-readme-streak-stats.herokuapp.com/?user=paranthaman-l&theme=tokyonight" alt="paranthaman-l" /></p>
